@@ -1,0 +1,14 @@
+{
+    "require": {
+        "mpdf/mpdf": "^6.1",
+        "phpoffice/phpspreadsheet": "^1.28",
+        "tecnickcom/tcpdf": "^6.6",
+        "setasign/fpdf": "^1.8",
+        "setasign/fpdi": "^1.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
